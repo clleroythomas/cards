@@ -23,7 +23,7 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 built-by: webjeda
 copyright:
    name: webjeda
-   link: 'http://blog.webjeda.com'
+   link: 'https://clleroythomas@github.io'
 
 # Build settings
 markdown: kramdown
